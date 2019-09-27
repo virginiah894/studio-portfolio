@@ -1,16 +1,17 @@
 .container-fluid{
   background-image: url(/images/delani\ home\ page.jpg);
   text-align: center;
-  height: 680px;
+  height:100vh;
   opacity: 1;
   color:white;
   padding-top: 15%;
   background-size: cover;
 }
 #ms{
-  padding-top:6%;
+  padding-top:15%;
 }
 #about{
+  padding-top: 60px;
   text-align: center;
   padding: 12px;
   font-family: "Sofia";
@@ -24,5 +25,8 @@
   font-family: "Aclonica";
   padding: 70px;
   font-size:20px;
-
+}
+body{
+  padding: 12px;
+  scroll-behavior: smooth;
 }
