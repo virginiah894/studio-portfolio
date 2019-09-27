@@ -44,7 +44,13 @@ text-align: center;
 block-size: cover;
 text-align: center;
  height:60vh;
- padding-top: 12px;
- margin-top:12%;
-
+ padding-top: 9px;
+ margin-top:5%;
+ margin-bottom: 3%;
+}
+#sm{
+  display: inline;
+  text-align: center;
+  margin-left: 20%;
+  margin-bottom:7%;
 }
