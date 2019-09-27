@@ -14,8 +14,9 @@
   padding-top: 60px;
   text-align: center;
   padding: 12px;
-  font-family: "Sofia";
+  font-family: "Andika";
   font-size: 17px;
+  font-weight:bold;
 }
 #serve{
   background-image: url(/images/s_image.jpg);
@@ -25,9 +26,10 @@
   font-family: "Aclonica";
   padding: 70px;
   font-size:20px;
+  font-weight:bold;
 }
-bo
-  scroll-behavior: smooth;
+body{
+  scroll-behavior:smooth;
 }
 #do{
   text-align: center;
