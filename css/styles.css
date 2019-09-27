@@ -26,15 +26,19 @@
   padding: 70px;
   font-size:20px;
 }
-body{
-  padding: 12px;
+bo
   scroll-behavior: smooth;
 }
 #do{
   text-align: center;
   padding-top: 18px;
 }
-#do>img{
+#photos{
   display: flex;
   flex-direction: row;
+  padding: 12px;
+text-align: center;
+}
+#contacts{
+  background-image: url(/images/c_image.jpg);
 }
