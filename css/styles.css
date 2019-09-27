@@ -33,12 +33,15 @@ body{
 }
 #do{
   text-align: center;
-  padding-top: 18px;
+  margin:5%;
+}
+#do>h3{
+  padding-top: -50px;
 }
 #photos{
   display: flex;
   flex-direction: row;
-  padding: 12px;
+  padding: 2px;
 text-align: center;
 }
 #contacts{
@@ -54,10 +57,11 @@ text-align: center;
   display: inline;
   text-align: center;
   margin-left: 20%;
-  margin-bottom:7%;
 }
 footer{
   margin-left: 30%;
   padding: 22px;
-  
+}
+#des,#desA,#desB{
+  display:none;
 }
