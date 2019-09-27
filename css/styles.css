@@ -1,4 +1,4 @@
-.container-fluid{
+#home{
   background-image: url(/images/delani\ home\ page.jpg);
   text-align: center;
   height:100vh;
@@ -53,4 +53,9 @@ text-align: center;
   text-align: center;
   margin-left: 20%;
   margin-bottom:7%;
+}
+footer{
+  margin-left: 30%;
+  padding: 22px;
+  
 }
