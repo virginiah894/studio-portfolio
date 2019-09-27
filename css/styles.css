@@ -12,5 +12,7 @@
 }
 #about{
   text-align: center;
-  padding: 32px;
+  padding: 12px;
+  font-family: "aclonica";
+  font-size: 17px;
 }
