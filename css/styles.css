@@ -4,11 +4,14 @@
   height:100vh;
   opacity: 1;
   color:white;
-  padding-top: 15%;
+  padding-top: 20%;
   background-size: cover;
 }
+#new{
+  padding: 15px;
+}
 #ms{
-  padding-top:15%;
+  padding-top:7%;
 }
 #about{
   padding-top: 60px;
@@ -36,13 +39,7 @@ body{
   margin:5%;
 }
 #do>h3{
-  padding-top: -50px;
-}
-#photos{
-  display: flex;
-  flex-direction: row;
-  padding: 2px;
-text-align: center;
+  padding-top: 12px;
 }
 #contacts{
   background-image: url(/images/c_image.jpg);;
