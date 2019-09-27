@@ -36,10 +36,9 @@ body{
 }
 #do{
   text-align: center;
-  margin:5%;
-}
-#do>h3{
-  padding-top: 12px;
+  padding: 10px;
+margin-top: 5px;
+margin-bottom: 10px;
 }
 #contacts{
   background-image: url(/images/c_image.jpg);;
@@ -61,4 +60,7 @@ footer{
 }
 #des,#desA,#desB{
   display:none;
+}
+#port{
+  margin-top: 12px;
 }
