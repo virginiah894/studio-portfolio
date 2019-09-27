@@ -1,4 +1,4 @@
-.container{
+.container-fluid{
   background-image: url(/images/delani\ home\ page.jpg);
   text-align: center;
   height: 680px;
@@ -13,6 +13,16 @@
 #about{
   text-align: center;
   padding: 12px;
-  font-family: "aclonica";
+  font-family: "Sofia";
   font-size: 17px;
+}
+#serve{
+  background-image: url(/images/s_image.jpg);
+  background-size: cover;
+  text-align: center;
+  color:white;
+  font-family: "Aclonica";
+  padding: 70px;
+  font-size:20px;
+
 }
