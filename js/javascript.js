@@ -11,4 +11,5 @@ $("#dev").click(function() {
 $("#prd").click(function() {
   $("#desB").toggle();
 });
-
+$("#contacts").css("color","white");
+$(".data").css("background-image","transparent");
