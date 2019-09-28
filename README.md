@@ -1,8 +1,8 @@
-## Weebsite Name
-Akan Naming applicatio website.
+## Website Name
+ Delani studio website.
 
-Brief description of application
-This is a website application which integrates the user's input which is date of birth,Month of birth,Year of birth and the century.The app calculates finds the day of the week using the formula Day of the week (d) = ( ( (CC/4) -2CC-1) + ((5YY/4) ) + ((26*(MM+1)/10)) + DD ) mod 7. The value acquired is what the system uses to give you an Akan name from Ghana.
+## Brief description of website.
+This is a portfolio website for Delani studio.Herein we are
 
 List of contributors
 Virginiah Periah github:virginiah@894
@@ -26,7 +26,5 @@ The application uses English Language. It uses HTML ,css,javascript and bootstra
 Support and contact details
 For any queries, ideas on improvement,requests for contribution ,feel free to email me on virgyperry@gmail.com
 
-License
-Copyright (c) Virginiah Periah 2019 Licensed under the Apache License, Version 3.0 (the "License");
-
-© 2019 GitHub, Inc.
+ ## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
