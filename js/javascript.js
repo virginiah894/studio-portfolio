@@ -12,4 +12,5 @@ $("#prd").click(function() {
   $("#desB").toggle();
 });
 $("#contacts").css("color","white");
-$(".data").css("background-image","transparent");
+$(".data").css("background-color","transparent");
+$("#msg").css("height","200px");
