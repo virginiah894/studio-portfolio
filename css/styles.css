@@ -74,6 +74,7 @@ footer{
   transform: translate(-50%, -50%);
 }
 #sub{
-  text-align: center;
   left:70%;
+  padding:10px;
+  margin-top: 12px;
 }
