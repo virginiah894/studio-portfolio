@@ -20,7 +20,7 @@ The website is portfolio quality and very user friendly.
 ## Languages
 The website is written in english.
 ## Deployment
-The link to the deployed site is
+The link to the deployed site is https://github.com/virginiah894/studio-portfolio
 The link is also available on the git hub gh-pages of this repository.
 The website loads automatically on all browsers.
 

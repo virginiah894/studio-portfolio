@@ -28,31 +28,67 @@ $("#contacts").text(alert)
   event.preventDefault();
 });
 
-// $("#one").mouseover(function() {
-//  $("#one").text("Project one").css("background-color","blue", "position","absolute");
-// });
+$("#one").mouseenter(function() {
+ $("#overlay").show();
+});
 
-// $("#one").hover(function(){
-//   $("#one").text("Project one").css("background-color","blue", "overflow","hidden");
-//   });
-//   $("#two").hover(function(){
-//     $("#two").text("Project one") .css("background-color","white");
-//     });
-//     $("#three").hover(function(){
-//   $("#three").addClass("ma").text("Project one");
-//   });
-//   $("#four").hover(function(){
-//     $("#four").addClass("ma").text("Project one");
-//     });
-//     $("#five").hover(function(){
-//       $("#five").addClass("ma").text("Project one");
-//       });
-//       $("#six").hover(function(){
-//         $("#six").addClass("ma").text("Project one");
-//         });
-//         $("#seven").hover(function(){
-//           $("#seven").addClass("ma").text("Project one");
-//           });
-//           $("#eight").hover(function(){
-//             $("#eight").addClass("ma").text("Project one");
-//             });
+$("#one").mouseleave(function(){
+  $("#overlay").hide()
+  });
+  $("#two").mouseenter(function() {
+    $("#overlayA").show();
+   });
+   
+   $("#two").mouseleave(function(){
+     $("#overlayA").hide()
+     });
+     $("#three").mouseenter(function() {
+      $("#overlayB").show();
+     });
+     
+     $("#three").mouseleave(function(){
+       $("#overlayB").hide()
+       });
+       $("#four").mouseenter(function() {
+        $("#overlayC").show();
+       });
+       
+       $("#four").mouseleave(function(){
+         $("#overlayC").hide()
+         });
+         $("#five").mouseenter(function() {
+          $("#overlayD").show();
+         });
+         
+         $("#five").mouseleave(function(){
+           $("#overlayD").hide()
+           });
+           $("#six").mouseenter(function() {
+            $("#overlayE").show();
+           });
+           
+           $("#six").mouseleave(function(){
+             $("#overlayE").hide()
+             });
+       
+             $("#seven").mouseenter(function() {
+              $("#overlayF").show();
+             });
+             
+             $("#seven").mouseleave(function(){
+               $("#overlayF").hide()
+               });
+               $("#eight").mouseenter(function() {
+                $("#overlayG").show();
+               });
+               
+               $("#eight").mouseleave(function(){
+                 $("#overlayG").hide()
+                 });
+           
+    
+                 $("#sub").submit(function one (){
+                  alert("Submitted");
+                });
+              $("#sub").hide()
+              
