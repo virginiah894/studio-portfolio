@@ -2,15 +2,35 @@
 $(document).ready(function() {
   $("#design").click(function() {
     $("#des").toggle();
-  });
+    $("#design").hide(); 
+});
 });
 
+$("#des").click(function() {
+  $("#design").toggle();
+  $("#des").hide(); 
+});
 $("#dev").click(function() {
   $("#desA").toggle();
+  $("#dev").hide();
 });
+
+$("#desA").click(function() {
+  $("#dev").toggle();
+  $("#desA").hide(); 
+});
+
 $("#prd").click(function() {
   $("#desB").toggle();
+  $("#prd").hide();
 });
+
+
+$("#desB").click(function() {
+  $("#prd").toggle();
+  $("#desB").hide(); 
+});
+
 $("#contacts").css("color","white");
 $(".data").css("background-color","transparent");
 $("#msg").css("height","200px");

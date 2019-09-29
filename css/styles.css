@@ -60,6 +60,7 @@ footer{
 }
 #des,#desA,#desB{
   display:none;
+  text-align: center;
 }
 #port{
   margin-top: 12px;
@@ -72,6 +73,7 @@ footer{
   display:none;
   opacity: 1;
   transform: translate(-50%, -50%);
+
 }
 #sub{
   left:70%;
