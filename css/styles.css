@@ -1,5 +1,5 @@
 #home{
-  background-image: url(../images/delani\ home\ page.jpg);
+  background-image: url('../images/delani\ home\ page.jpg');
   text-align: center;
   height:100vh;
   opacity: 1;
@@ -22,7 +22,7 @@
   font-weight:bold;
 }
 #serve{
-  background-image: url(../images/s_image.jpg);
+  background-image: url('../images/s_image.jpg');
   background-size: cover;
   text-align: center;
   color:white;
@@ -41,7 +41,7 @@ margin-top: 5px;
 margin-bottom: 10px;
 }
 #contacts{
-background-image: url(../images/c_image.jpg);;
+background-image: url('../images/c_image.jpg');;
 block-size: cover;
 text-align: center;
  height:60vh;
